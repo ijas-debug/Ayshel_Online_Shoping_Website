@@ -1,0 +1,229 @@
+.ayshel1{
+    letter-spacing: 15px;
+    font-family: var(--typeHeaderPrimary),var(--typeHeaderFallback); 
+    
+}
+.ayshel{
+
+letter-spacing: 3px;
+font-family: var(--typeBasePrimary),var(--typeBaseFallback);
+}
+.top{
+letter-spacing: 10px;
+font-size: 60px;
+margin-left: 700px;
+margin-top: 50px;
+font-family: var(--typeHeaderPrimary),var(--typeHeaderFallback);
+}
+.h3
+{
+font-size: calc(var(--typeHeaderSize)*.65 ); 
+}
+.checkayshel
+{
+color: var(--colorTextBody);
+letter-spacing: 10px;
+margin-top: 50px;
+}
+
+.checkayshel1
+{
+color: var(--colorTextBody);
+letter-spacing: 10px;
+margin-top: 10px;
+}
+
+.btn--small
+{
+padding: 8px 14px;
+background-position: 150% 45%;
+min-width: 90px;
+font-size: calc(var(--typeBaseSize) - 6px);
+font-size: max(calc(var(--typeBaseSize) - 6px),12px);
+}
+.btn--secondary
+{
+color: #000;
+color: var(--colorTextBody);
+border: 1px solid;
+border-color: #000;
+border-color: var(--colorBorder);
+background-color: transparent;
+}
+.sale
+{
+    float: left;
+    margin-left: 50px;
+}
+.imagebox
+{
+  float: left;
+  margin-left: 410px;
+}
+.blousetext
+{
+  padding-left: 280px;
+}
+.videobar
+{
+  margin-top: 200px;
+  background-color: whitesmoke;
+}
+.campaign
+{
+  
+
+    font-size: 2.375rem;
+    letter-spacing: 0;
+    line-height: 2.5rem;
+    font-weight: 500;
+    color: inherit;
+    font-weight: normal;
+}
+.blackwidow
+{
+padding-top: 1000px;
+}
+
+.shoes
+{
+margin-top: 100px;
+}
+
+.shoespara
+{
+font-weight: 200;
+font-style: normal;
+font-size: 36px;
+text-transform: none;
+line-height: 1.2;
+padding-left: 35px;
+}
+.quote
+{
+margin-top: 100px;
+margin-left: 520px;
+
+}
+.ralph
+{
+margin-left: 850px;
+}
+.image1
+{
+    float: left;
+    text-transform: uppercase;
+    font-size: calc(var(--typeBaseSize) - 2px);
+    letter-spacing: .2em;
+    margin-left: 100px;
+}
+.image2
+{
+  margin-left: 350px;
+  margin-top: 60px;
+}
+
+
+.bar1
+{
+    margin-top: 150px;
+}
+.bar2{
+  margin-top: 100px;
+}
+.lv-distyque{
+  margin-bottom: 0;
+  margin: 0 0 1rem;
+    
+}
+.body-xl{
+  font-size: 1.375rem;
+    letter-spacing: .05rem;
+    line-height: 2.25rem;
+    font-weight: 300;
+}
+.imagebag{
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fullbackground{
+  background-color: rgb(244, 227, 230);
+}
+.footerayshel
+{
+  background-color: whitesmoke;
+}
+
+
+
+.containerone {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  
+}
+
+.videoone {
+  max-width: 500px;
+}
+
+.textone {
+  padding: 20px;
+  text-align: center;
+}
+
+.card-container
+{
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+  }
+  .aboutpara{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+
+
+
+.drop-intro-description[data-v-5c028c3a] {
+      font-size: 1.375rem;
+      line-height: 2.25rem;
+      margin: 0 auto;
+    }
+.drop-intro-description[data-v-5c028c3a] {
+
+      font-weight: 300;
+     
+      letter-spacing: .05rem;
+      max-width: 40.625rem;
+      transition-delay: .2s;
+    }
+    .drop-intro h2[data-v-5c028c3a], .drop-intro-heading[data-v-5c028c3a] {
+      font-size: 2.125rem;
+      line-height: 2.25rem;
+      padding: 0;
+  }
+
+  .drop-intro[data-v-5c028c3a] {
+    position: relative;
+    width: 100%;
+    padding: 10% 1.5rem 11%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
